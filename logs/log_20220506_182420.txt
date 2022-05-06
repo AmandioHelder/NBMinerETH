@@ -1,0 +1,59 @@
+[18:24:20] INFO - ----------------------------------------------
+[18:24:20] INFO - |                                            |
+[18:24:20] INFO - |                                            |
+[18:24:20] INFO - |                                            |
+[18:24:20] INFO - |                                            |
+[18:24:20] INFO - |                                            |
+[18:24:20] INFO - |                                            |
+[18:24:20] INFO - |                                            |
+[18:24:20] INFO - |         NBMiner - Crypto GPU Miner         |
+[18:24:20] INFO - |                    40.1                    |
+[18:24:20] INFO - |                                            |
+[18:24:20] INFO - ----------------------------------------------
+[18:24:20] INFO - ------------------- System -------------------
+[18:24:20] INFO - OS:     Windows 10 Version 2009, 10.0.22000
+[18:24:20] INFO - CPU:    AMD Ryzen 5 3600X 6-Core Processor             
+[18:24:20] INFO - RAM:    5850 MB / 16335 MB
+[18:24:20] INFO - VMEM:   3789 MB / 27648 MB
+[18:24:20] INFO - CU_DRV: 11.6, 511.79
+[18:24:20] INFO - ------------------- Config -------------------
+[18:24:20] INFO - ALGO:   ethash
+[18:24:20] INFO - URL:    stratum+tcp://ethash.poolbinance.com:1800
+[18:24:20] INFO - USER:   Thiagopc.001
+[18:24:20] INFO - TEMP:   limit 90C, start 85C
+[18:24:20] INFO - ------------------- Device -------------------
+[18:24:20] INFO -  |ID|PCI|  CC|Memory|CU|
+[18:24:20] INFO - *| 0|  6|  75| 6143M|22| NVIDIA GeForce GTX 1660 SUPER
+[18:24:20] INFO - ----------------------------------------------
+[18:24:21] INFO - ethash - Logging in to ethash.poolbinance.com(76.223.62.235):1800 ...
+[18:24:21] INFO - ethash - Login succeeded.
+[18:24:21] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 18ebe024, HEIGHT: 589858, DIFF: 8.590G
+[18:24:21] INFO - API:  0.0.0.0:22333
+[18:24:21] INFO - API server started.
+[18:24:23] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 73f2cdaa, HEIGHT: 589858, DIFF: 8.590G
+[18:24:23] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: d453ad51, HEIGHT: 589858, DIFF: 8.590G
+[18:24:23] INFO - Device 0 started, Free mem = 5168 MB.
+[18:24:26] INFO - Light cache built, 2.65 s.
+[18:24:28] INFO - Device 0: DAG - Building, EPOCH 490
+[18:24:29] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: f9b77771, HEIGHT: 589858, DIFF: 8.590G
+[18:24:32] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 50ed9a44, HEIGHT: 589858, DIFF: 8.590G
+[18:24:38] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 69237900, HEIGHT: 589858, DIFF: 8.590G
+[18:24:42] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: cb5cc67b, HEIGHT: 589858, DIFF: 8.590G
+[18:24:47] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 42dc4bf0, HEIGHT: 589858, DIFF: 8.590G
+[18:24:47] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: eabeaace, HEIGHT: 589858, DIFF: 8.590G
+[18:24:51] INFO - ===================== [nbminer v40.1] Summary 2022-05-06 18:24:51 =====================
+[18:24:51] INFO - |ID|Device|Hashrate| LHR|Accept|Reject|Inv|Powr|CTmp|MTmp|Fan|CClk|GMClk|MUtl|Eff/Watt|
+[18:24:51] INFO - | 0| 1660s|  0.000 |    |     0|     0|  0| 105|  52|    | 31|1965| 7000|  18|  0.000 |
+[18:24:51] INFO - |------------------+----+------+------+---+----+--------------------------------------|
+[18:24:51] INFO - |    Total:  0.000 |    |     0|     0|  0| 105| Uptime:  0D 00:00:31        CPU: 24% |
+[18:24:51] INFO - =======================================================================================
+[18:24:51] INFO - ethash - On Pool   10m:  0.000    4h:  0.000    24h:  0.000 
+[18:24:53] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c1a016d2, HEIGHT: 589858, DIFF: 8.590G
+[18:24:59] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 4bd06941, HEIGHT: 589858, DIFF: 8.590G
+[18:25:02] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 125f638c, HEIGHT: 589858, DIFF: 8.590G
+[18:25:04] INFO - Device 0: DAG - Built, 36.50 s.
+[18:25:05] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: c8b282ac, HEIGHT: 589858, DIFF: 8.590G
+[18:25:07] INFO - Device 0: DAG - Verification ok.
+[18:25:08] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 0ed97c57, HEIGHT: 589858, DIFF: 8.590G
+[18:25:11] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: e58e69aa, HEIGHT: 589858, DIFF: 8.590G
+[18:25:17] INFO - ethash - New job: ethash.poolbinance.com:1800, ID: 947382c7, HEIGHT: 589858, DIFF: 8.590G
