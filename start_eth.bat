@@ -1,3 +1,3 @@
 @cd /d "%~dp0"
-nbminer -a ethash -o stratum+tcp://ethash.poolbinance.com:1800 -u Thiagopc.001 -log
+nbminer -a ethash.poolbinance.com:3333 -u ETHAMAN88 -log
 pause
